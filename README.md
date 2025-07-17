@@ -1,59 +1,24 @@
-<!-- used to created pdf file -->
-<!-- $ pandoc README.md -V geometry:a4paper,margin=2cm -o project1.pdf --lua-filter ~/Temp/linebreaks.lua -->
-<!-- --- -->
-<!-- author: Hendrix Tavarez -->
-<!-- fontfamily: helvet -->
-<!-- geometry: margin=2cm -->
-<!-- linkcolor: PineGreen -->
-<!-- header-includes: -->
-<!-- \hypersetup{ -->
-<!--     colorlinks=true, -->
-<!--     urlcolor=PineGreen, -->
-<!--     citecolor=PineGreen, -->
-<!-- } -->
-<!-- \usepackage{fancyhdr} -->
-<!-- \usepackage{caption} -->
-<!-- \captionsetup[figure]{ -->
-<!--     name=, -->
-<!--     labelsep=none, -->
-<!--     labelformat=empty -->
-<!-- } -->
-<!-- \pagestyle{empty} -->
-<!-- \pagestyle{fancy} -->
-<!-- --- -->
-<!---->
-# Project 1: Art Space
 
+# Project: Art Space
+
+
+## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/ac12db846191418085b18f45f85663a9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ac12db846191418085b18f45f85663a9-63faf4ce2d07e2e2-full-play.gif">
+    </a>
+  </div>
 
 ## To be completed 
 
 Read the project description, layout details and complete all "TODO" sections using the information below.
 
-To download the code to complete your assignment, you can use these git commands:
-
-```
-$ git clone https://github.com/hendrix-lehman/cmp431.git
-$ cd cmp431/AssignmentProjects/ArtSpace
-```
-
-Alternatively you can download the repository as a zip file, unzip it, and open it in Android Studio.
-
-[Download Here](https://github.com/hendrix-lehman/cmp431/archive/refs/heads/main.zip)
-
-[Download Instructions](./assets/download_instructions.pdf)
-
-After unzipping the project zip file, please find the project directory here:
-
-```
-$ cd cmp431-main/AssignmentProjects/ArtSpace 
-```
-
-The code snippet below are located in the MainActivity.kt file.
 
 
 | Home Page Code     | Artist Page Code       |
 |-----------------|--------------------|
-| ![Home Page code](./assets/homepage-code.png) | ![Artist Page code](./assets/artistpage-code.png) |
+| ![Home Page code](https://i.imgur.com/4dzuzzu.png) | ![Artist Page code](https://i.imgur.com/4dzuzzu.png) |
 
 
 ## Description
@@ -68,7 +33,7 @@ To navigate back to the collection, users can select the "Back" button.
 
 | Home Page       |       Artist Page  (top)      |      Artist Page (bottom) |
 |-----------------|-------------------------------|------------------------|
-| ![Home Page image](./assets/homepage.png) | ![Artist Page top](./assets/artistpage-1.png) | ![Artist Page top](./assets/artistpage-2.png) |
+| ![Home Page image](https://i.imgur.com/ftfHuyO.jpeg) | ![Artist Page top](https://i.imgur.com/3Uo8ObY.png) | ![Artist Page top](https://i.imgur.com/QP5iC7S.png) |
 
 ## Layout
 
@@ -90,6 +55,6 @@ The Artist Page is broken down into smaller sections as follow:
 
 | Home Page       | Artist Page        |
 |-----------------|--------------------|
-| ![Home Page layout](./assets/homepage-layout.png) | ![Artist Page layout](./assets/artistpage-layout.png) |
+| ![Home Page layout](https://i.imgur.com/9kmlTq3.png) | ![Artist Page layout](https://i.imgur.com/1UKlu7Z.png) |
 
 
